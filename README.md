@@ -14,6 +14,6 @@ Software & AI Engineer • Aracaju, BR
 ---
 
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=flat)](http://lattes.cnpq.br/7566235432290754)
-[![Website](https://img.shields.io/badge/Website-000?style=flat&logo=vercel)](https://signalan.vercel.app)
+[![Resume](https://img.shields.io/badge/Resume-000?style=flat&logo=vercel)](https://signalan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/signalan/)
 [![X](https://img.shields.io/badge/X-000?style=flat&logo=x)](https://x.com/signalan1)
