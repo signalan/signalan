@@ -4,7 +4,7 @@
 
 - Software & AI Engineer
 - Studying Computer Science @ UNIT.
-- Building things with Python and JavaScript.
+- Building technology to augment human intelligence.
 
 **Stack:** Python · JavaScript · React · Express.js · MySQL
 
