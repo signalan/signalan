@@ -8,7 +8,7 @@
 
 **Stack:** Python · JavaScript · React · Express.js · MySQL
 
-**Interests:** Software Development · UX/UI · Data Science ·ML/DL · AI Engineering
+**Interests:** Software Development · UX/UI · Data Science · ML/DL · AI Engineering
 
 ---
 
