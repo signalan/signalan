@@ -1,4 +1,4 @@
-![Profile Image](banner.png)
+![Profile Image](image.png)
 
 # Alan Vieira
 
